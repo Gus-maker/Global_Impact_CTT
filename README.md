@@ -55,7 +55,7 @@ Ter os seguintes Programas:
 
 Adicione o link para assistir ao vídeo do projeto funcionando.
 
-[https://youtu.be/oZBnhCjALsU]()
+[https://youtu.be/oZBnhCjALsU]
 
 
 ### Referências 
