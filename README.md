@@ -32,7 +32,7 @@ Prever que tipo de tomates terão resistência ou não ao fungo, utilizando de u
 
 - Abra o seguinte link  e siga os passos : https://tc.com.br/tc-school/quant-investimentos/python-programacao-introducao
 
-- Baixe o arquivo 
+- Baixe o arquivo (basta clicar no botão "code" na parte superior e baixar o zip )
 
 - Clique em arquivos, abra o arquivo e clique no play.
 
@@ -48,7 +48,8 @@ Ter os seguintes Programas:
 
 1. Assim que todos as libs forem instaladas, siga este material https://www.digitalocean.com/community/tutorials/how-to-install-run-connect-to-jupyter-notebook-on-remote-server-pt
 2. Faça o upload do arquivo clicando no botão "Upload", envie o arquivo, clique 2 vezes em "last modified"
-3. Selecione o notebook e clique em "run"
+3. Baixe o arquivo (basta clicar no botão "code" na parte superior e baixar o zip )
+4. Selecione o notebook e clique em "run"
 
   
 ## Link de vídeo demonstração
